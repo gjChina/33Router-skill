@@ -1,0 +1,4 @@
+interface:
+  display_name: "33Router Image Generation"
+  short_description: "Generate images through the active cc-switch provider"
+  default_prompt: "Generate an image"
